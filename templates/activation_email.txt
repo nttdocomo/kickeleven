@@ -1,0 +1,8 @@
+$def with(ctx)
+Hi!
+In order to activate your account please visit the following link:
+
+http://$ctx['site']/activate/$ctx['activation_key']/
+
+Thanks,
+Your $ctx['site'] team

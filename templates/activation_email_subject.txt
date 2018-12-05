@@ -1,0 +1,2 @@
+$def with(ctx)
+Activation of your $ctx['site'] account $ctx['activation_key']

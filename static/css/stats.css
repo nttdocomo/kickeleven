@@ -1,0 +1,22 @@
+ul{
+	list-style: none;
+	margin: 0;
+}
+.stat-list{
+	display: table;
+	min-width: 100%;
+}
+.stat{
+	display: table-cell;
+	padding-left:25px;
+}
+.stat-label,.stat-value{
+	display: block;
+}
+.stat-value{
+	font-weight: 500;
+	font-size: 18px;
+}
+.stat:first-child{
+	padding-left:0px;
+}
